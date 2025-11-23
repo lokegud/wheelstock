@@ -1,0 +1,7 @@
+{
+  "name": "StockSnap",
+  "description": "A smart inventory management tool that parses handwritten lists to update stock levels using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
